@@ -13,6 +13,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NadiiaYevtushenko"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NadiiaYevtushenko/Flask.git",
+    "accountId": "33becd48-111b-4883-be42-882e0c9e86b8"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -87,7 +99,7 @@
       <updated>1715656694530</updated>
       <workItem from="1715656699508" duration="7000" />
       <workItem from="1716002963571" duration="315000" />
-      <workItem from="1716003305052" duration="746000" />
+      <workItem from="1716003305052" duration="1381000" />
     </task>
     <servers />
   </component>
